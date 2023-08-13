@@ -59,9 +59,7 @@ option{
     padding:2 20px;
 }
 
-#result{
-    margin: 40px;
-    line-height: 4;
+#result{ 
     text-align: center;
     font-size: 20px;
     font-weight: 500;
