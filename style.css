@@ -10,11 +10,15 @@
 }
 .converter{
     width: 500px;
-    height: 350px;
+    height: 250px;
     padding: 30px;
     margin: 20px;
     display: inline-block;
     background:#eeeeeedf;
+}
+
+.converter h2{
+    text-align: center;
 }
 
 label{
